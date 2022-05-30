@@ -1,1 +1,1 @@
-# FoundationsofML
+# AI Methods
